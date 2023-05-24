@@ -67,7 +67,7 @@
 		E445923E1325C41315710A190B50FCBE /* ExampleSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ExampleSDK.debug.xcconfig; sourceTree = "<group>"; };
 		EB02FDF1C30B18914F807DA1C0665ED7 /* Pods-ExampleSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ExampleSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EB765236B2B225345425445C5EA88BA6 /* ExampleSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ExampleSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3E33D6D9ED91A59D11A11202B341D76 /* ExampleSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ExampleSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F3E33D6D9ED91A59D11A11202B341D76 /* ExampleSDKAnchor.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ExampleSDKAnchor.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F4F1CFF134808BAADDF8881E2D05C958 /* Pods-ExampleSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ExampleSDK_Tests.modulemap"; sourceTree = "<group>"; };
 		FFF5DD64C4022E473682333F9BCAC017 /* Pods-ExampleSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ExampleSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -168,7 +168,7 @@
 		BE5EB5C59E3ADE4B93A035EF70ABC3CC /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				F3E33D6D9ED91A59D11A11202B341D76 /* ExampleSDK.podspec */,
+				F3E33D6D9ED91A59D11A11202B341D76 /* ExampleSDKAnchor.podspec */,
 				3144D8C9CB115A1D63A07AAC7DDF2B32 /* LICENSE */,
 				72484FC2D07EE3F33A85A16E734E8A65 /* README.md */,
 			);
