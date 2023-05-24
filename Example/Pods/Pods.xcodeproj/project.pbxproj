@@ -125,6 +125,14 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		A866AB4A2A1E3A0900C28920 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				A866AB472A1E18EC00C28920 /* SDKSource.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		A89AC298D85BD7B60B5A865D112338F4 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -172,7 +180,7 @@
 			children = (
 				BE5EB5C59E3ADE4B93A035EF70ABC3CC /* Pod */,
 				A89AC298D85BD7B60B5A865D112338F4 /* Support Files */,
-				A866AB472A1E18EC00C28920 /* SDKSource.swift */,
+				A866AB4A2A1E3A0900C28920 /* Sources */,
 			);
 			name = ExampleSDK;
 			path = ../..;
