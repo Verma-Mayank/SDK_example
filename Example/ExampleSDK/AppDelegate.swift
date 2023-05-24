@@ -7,14 +7,16 @@
 //
 
 import UIKit
+import ExampleSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    var sdkExample: SDKSource = SDKSource.init()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        sdkExample.helloworld()
         // Override point for customization after application launch.
         return true
     }

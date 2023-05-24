@@ -1,0 +1,22 @@
+{
+  "name": "ExampleSDK",
+  "version": "0.1.0",
+  "summary": "A short description of ExampleSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MayankCityExperiences/ExampleSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MayankCityExperiences": "mayank.verma@cityexperiences.com"
+  },
+  "source": {
+    "git": "https://github.com/MayankCityExperiences/ExampleSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ExampleSDK/Classes/**/*"
+}
